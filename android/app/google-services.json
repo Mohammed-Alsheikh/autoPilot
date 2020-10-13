@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139966296287",
+    "firebase_url": "https://autopilot-40c9d.firebaseio.com",
+    "project_id": "autopilot-40c9d",
+    "storage_bucket": "autopilot-40c9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139966296287:android:5ff2c74d36f125a079f96a",
+        "android_client_info": {
+          "package_name": "com.autopilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139966296287-c0mk4kicmk6htk8kbe3i12stvh6aelik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCpo3iEbFLOI17CXdxpbiFJ57PiHjVaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139966296287-c0mk4kicmk6htk8kbe3i12stvh6aelik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
